@@ -4,7 +4,7 @@ Binary Classification Prediction Problem - Length of Stay in Hospital (Greater o
 
 ## Order to load and view files
 ### First :
-- load dataset => los_dataset_cleaned.csv
+- Load dataset => los_dataset_cleaned.csv
 
 ### Second : 
 - Run ipynb file => hospitalLengthOfStay.ipynb
